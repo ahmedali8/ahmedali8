@@ -33,6 +33,30 @@
 <br />
 <br />
 
+---
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: Top Languages</summary>
+
+   [![Top Langs](https://github-readme-stats.ahmedali8.vercel.app/api/top-langs/?username=ahmedali8&layout=compact)](https://github.com/ahmedali8/github-readme-stats)
+
+</details>
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="ahmedali8's Github Stats" src="https://github-readme-stats.ahmedali8.vercel.app/api?username=ahmedali8&show_icons=true&hide_border=true" />
+
+</details>
+
 
 [twitter]: https://twitter.com/AhmedABhatti
 [instagram]: https://www.instagram.com/ahmed.ali6262/
