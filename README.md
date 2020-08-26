@@ -39,6 +39,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#383](https://github.com//zeeshanhanif/bootcamp2020/issues/383) in [zeeshanhanif/bootcamp2020](https://github.com//zeeshanhanif/bootcamp2020)
 <!--END_SECTION:activity-->
 
 </details>
