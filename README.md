@@ -24,7 +24,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/89e66bbc998247eebf0b70136a574ac5.png?r=1wy"
+      src="https://github.com/ahmedali8/ahmedali8/blob/master/devcard.svg"
       alt="Ahmed Ali's Dev Card"
     />
   </a>
