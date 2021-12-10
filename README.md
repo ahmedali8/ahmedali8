@@ -2,8 +2,7 @@
 
 ## I'm a Full Stack Blockchain Developer 💻
 
-- 🔭 I’m currently working as a Blockchain Developer.
-- 🌱 I’m constantly learning new Blockchain stuff from various sources.
+- 🌱 I’m constantly learning Ethereum, Solana, Polygon and more blockchains...
 - ⚡ Fun fact: I love to travel!
 
 <div align="left">
