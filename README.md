@@ -1,59 +1,67 @@
 ### Hi there, I'm Ahmed Ali 👋
 
+## I'm a Full Stack Blockchain Developer 💻
 
-## I'm a Software Developer, and Graphic Designer!
+- 🔭 I’m currently working as a Blockchain Developer.
+- 🌱 I’m constantly learning new Blockchain stuff from various sources.
+- ⚡ Fun fact: I love to travel!
 
-- 🔭 I’m currently taking [PIAIC Bootcamp 2020](https://github.com/panacloud/bootcamp-2020)!
-- 🌱 I’m currently learning Blockchain Development from [PIAIC](https://www.piaic.org/)
-- 🌱 I’m currently learning Web & Mobile Hybrid App Development from [Saylani](https://www.youtube.com/playlist?list=PLWX9NnKvk9DHgSU7Q8vSyDWSvUwrOPpdN)
-- ⚡ Fun fact: I love tourism
+<div align="left">
+  <a href="https://twitter.com/AhmedABhatti">
+    <img
+      src="https://img.shields.io/twitter/follow/AhmedABhatti?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/imahmedalibhatti/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
 
-
-### Connect with me:
-
-[<img align="left" alt="ahmedali8 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ahmedali8 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ahmedali8 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="ahmedali8 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="ahmedali8 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-
-<br />
+  <a href="https://app.daily.dev/ahmedali8" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/89e66bbc998247eebf0b70136a574ac5.png?r=1wy"
+      alt="Ahmed Ali's Dev Card"
+    />
+  </a>
+</div>
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][github]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][github]
-[<img align="left" alt="Ethereum" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ethereum.svg" />][github]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-
-<br />
-<br />
+[<img width="40px" src="https://img.icons8.com/ios/50/ffffff/ethereum.png" />][github]
+[<img width="40px" src="https://img.icons8.com/ios/50/ffffff/visual-studio-logo.png" />][github]
+[<img width="40px" src="https://img.icons8.com/ios/50/ffffff/typescript.png" />][github]
+[<img width="40px" src="https://img.icons8.com/ios/50/ffffff/sass.png" />][github]
+[<img width="40px" src="https://img.icons8.com/ios/50/ffffff/redux.png" />][github]
+[<img width="40px" src="https://img.icons8.com/ios/50/ffffff/github--v1.png" />][github]
+[<img width="40px" src="https://img.icons8.com/ios/50/ffffff/javascript--v1.png" />][github]
+[<img width="40px" src="https://img.icons8.com/ios/50/ffffff/react-native--v1.png" />][github]
+[<img width="40px" src="https://img.icons8.com/ios/50/ffffff/git.png" />][github]
+[<img width="40px" src="https://img.icons8.com/ios/50/ffffff/css3.png" />][github]
+[<img width="40px" src="https://img.icons8.com/ios/50/ffffff/html-5--v2.png" />][github]
+[<img width="40px" src="https://img.icons8.com/ios/50/ffffff/docker.png" />][github]
 
 ---
 
-
 <details>
   <summary>:zap: Top Languages</summary>
-
-   [![Top Langs](https://github-readme-stats.ahmedali8.vercel.app/api/top-langs/?username=ahmedali8&layout=compact)](https://github.com/ahmedali8/github-readme-stats)
-
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedali8&layout=compact&langs_count=10)](https://github.com/ahmedali8/github-readme-stats)
 </details>
 
 <details>
   <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="ahmedali8's Github Stats" src="https://github-readme-stats.ahmedali8.vercel.app/api?username=ahmedali8&show_icons=true&hide_border=true" />
-
+                                                        
+  ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmedali8&theme=dark&show_icons=true)
 </details>
-
 
 [twitter]: https://twitter.com/AhmedABhatti
 [instagram]: https://www.instagram.com/ahmed.ali6262/
 [linkedin]: https://www.linkedin.com/in/imahmedalibhatti/
 [facebook]: https://www.facebook.com/imahmedalibhatti/
-[gmail]:mailto:imahmedalibhatti@gmail.com
+[gmail]: mailto:imahmedalibhatti@gmail.com
 [github]: https://github.com/ahmedali8
