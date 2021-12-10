@@ -23,7 +23,7 @@
     <img
       width="256"
       align="right"
-      src="https://github.com/ahmedali8/ahmedali8/blob/master/devcard.svg"
+      src="https://github.com/ahmedali8/ahmedali8/blob/main/devcard.svg"
       alt="Ahmed Ali's Dev Card"
     />
   </a>
