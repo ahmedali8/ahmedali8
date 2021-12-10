@@ -32,18 +32,18 @@
 
 ### Languages and Tools:
 
-[<img width="40px" src="https://img.icons8.com/ios/50/ffffff/ethereum.png" />][github]
-[<img width="40px" src="https://img.icons8.com/ios/50/ffffff/visual-studio-logo.png" />][github]
-[<img width="40px" src="https://img.icons8.com/ios/50/ffffff/typescript.png" />][github]
-[<img width="40px" src="https://img.icons8.com/ios/50/ffffff/sass.png" />][github]
-[<img width="40px" src="https://img.icons8.com/ios/50/ffffff/redux.png" />][github]
-[<img width="40px" src="https://img.icons8.com/ios/50/ffffff/github--v1.png" />][github]
-[<img width="40px" src="https://img.icons8.com/ios/50/ffffff/javascript--v1.png" />][github]
-[<img width="40px" src="https://img.icons8.com/ios/50/ffffff/react-native--v1.png" />][github]
-[<img width="40px" src="https://img.icons8.com/ios/50/ffffff/git.png" />][github]
-[<img width="40px" src="https://img.icons8.com/ios/50/ffffff/css3.png" />][github]
-[<img width="40px" src="https://img.icons8.com/ios/50/ffffff/html-5--v2.png" />][github]
-[<img width="40px" src="https://img.icons8.com/ios/50/ffffff/docker.png" />][github]
+[<img width="40px" src="./assets/images/ethereum.png" />][github]
+[<img width="40px" src="./assets/images/vscode.png" />][github]
+[<img width="40px" src="./assets/images/typescript.png" />][github]
+[<img width="40px" src="./assets/images/sass.png" />][github]
+[<img width="40px" src="./assets/images/redux.png" />][github]
+[<img width="40px" src="./assets/images/github.png" />][github]
+[<img width="40px" src="./assets/images/javascript.png" />][github]
+[<img width="40px" src="./assets/images/react.png" />][github]
+[<img width="40px" src="./assets/images/git.png" />][github]
+[<img width="40px" src="./assets/images/css.png" />][github]
+[<img width="40px" src="./assets/images/html.png" />][github]
+[<img width="40px" src="./assets/images/docker.png" />][github]
 
 ---
 
