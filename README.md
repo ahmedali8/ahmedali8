@@ -2,8 +2,9 @@
 
 ## I'm a Full Stack Blockchain Developer 💻
 
-- 🌱 I’m constantly learning Ethereum, Solana, Polygon and more blockchains...
-- ⚡ Fun fact: I love to travel!
+- 🌱 I’m constantly learning Ethereum, Polygon, Solana, Polkadot and others...
+- 🦀 I'm learning Rust Programming Language
+- ⚡ Fun fact: I love to travel and engage with new people!
 
 <div align="left">
   <a href="https://twitter.com/AhmedABhatti">
@@ -58,8 +59,8 @@
   ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmedali8&theme=dark&show_icons=true)
 </details>
 
-[twitter]: https://twitter.com/AhmedABhatti
-[instagram]: https://www.instagram.com/ahmed.ali6262/
+[twitter]: https://twitter.com/ahmedalieth
+[instagram]: https://www.instagram.com/ahmedali.dev/
 [linkedin]: https://www.linkedin.com/in/imahmedalibhatti/
 [facebook]: https://www.facebook.com/imahmedalibhatti/
 [gmail]: mailto:imahmedalibhatti@gmail.com
