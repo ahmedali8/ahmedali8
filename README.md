@@ -7,9 +7,9 @@
 - ⚡ Fun fact: I love to travel and engage with new people!
 
 <div align="left">
-  <a href="https://twitter.com/ahmedalieth">
+  <a href="https://twitter.com/0xdev8">
     <img
-      src="https://img.shields.io/twitter/follow/AhmedABhatti?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      src="https://img.shields.io/twitter/follow/0xdev8?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
       alt="Twitter"
     />
   </a>
