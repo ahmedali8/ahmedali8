@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Blockchain Developer 💻
 
-- 🌱 I’m constantly learning Ethereum, Polygon, Solana, Polkadot and others...
+- 🌱 I’m constantly learning Ethereum, Polygon, Layer2s, Solana, Polkadot, Near, Concordium and others...
 - 🦀 I'm learning Rust Programming Language
 - ⚡ Fun fact: I love to travel and engage with new people!
 
