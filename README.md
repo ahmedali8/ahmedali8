@@ -2,8 +2,8 @@
 
 ## I'm a Full Stack Blockchain Developer 💻
 
-- 🌱 I’m constantly learning Ethereum, Polygon, Layer2s, Solana, Polkadot, Near, Concordium and others...
-- 🦀 I'm learning Rust Programming Language
+- 🌱 I’m constantly building in EVM and non-EVM ecosystems (Ethereum, Polygon, Layer2s, Solana, Cosmos, Polkadot, Near, Concordium and others...)
+- 🦀 Rust Enthusiast
 - ⚡ Fun fact: I love to travel and engage with new people!
 
 <div align="left">
