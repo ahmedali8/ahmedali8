@@ -1,4 +1,4 @@
-## I'm a Full Stack Software Engineer 💻
+## Software Engineer 💻
 
 - 👾 Backend and distrubuted systems
 - 🌱 EVM and non-EVM ecosystems
